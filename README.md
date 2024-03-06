@@ -1,9 +1,7 @@
 | Ability Name | Description | Hero |
 |--------------|-------------|------|
-| Taunt | Enemies will target this hero first. | -Given by Legacy of Taunt (Brick Lad), Snail, Pizza Warrior, Knight(⭐), Boulder Ogre(⭐), Mumlet, Frankenstein, Builderman, Brick Lad(⭐), Alar Knight, Hammerhead
- |
-| Pacifist | This hero doesn't attack. | -Snail, Village Dunce, Brick Lad, Beast, Cool Guy, Old Lady, TrainingDummy (⭐)
- |
+| Taunt | Enemies will target this hero first. | -Given by Legacy of Taunt (Brick Lad), Snail, Pizza Warrior, Knight(⭐), Boulder Ogre(⭐), Mumlet, Frankenstein, Builderman, Brick Lad(⭐), Alar Knight, Hammerhead |
+| Pacifist | This hero doesn't attack. | -Snail, Village Dunce, Brick Lad, Beast, Cool Guy, Old Lady, TrainingDummy (⭐) |
 | Boss This hero is immune to percentage damage attacks. This hero refuses to attack if you have more than two bosses. | -Owol Mother, Owol Father, Cobrasp, Royal Cobrasp, One Three, Samurai Gorilla
  | undefined |
 | Sharpshooter This hero never misses. | -Swag Owol, Ace, Craig, Officer Donut, Huntress(⭐), Gun Bandit, Kayla the Valiant
