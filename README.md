@@ -2,54 +2,29 @@
 |--------------|-------------|------|
 | Taunt | Enemies will target this hero first. | -Given by Legacy of Taunt (Brick Lad), Snail, Pizza Warrior, Knight(⭐), Boulder Ogre(⭐), Mumlet, Frankenstein, Builderman, Brick Lad(⭐), Alar Knight, Hammerhead |
 | Pacifist | This hero doesn't attack. | -Snail, Village Dunce, Brick Lad, Beast, Cool Guy, Old Lady, TrainingDummy (⭐) |
-| Boss This hero is immune to percentage damage attacks. This hero refuses to attack if you have more than two bosses. | -Owol Mother, Owol Father, Cobrasp, Royal Cobrasp, One Three, Samurai Gorilla
- | undefined |
-| Sharpshooter This hero never misses. | -Swag Owol, Ace, Craig, Officer Donut, Huntress(⭐), Gun Bandit, Kayla the Valiant
- | undefined |
-| Backstabber | 30% extra chance to score critical hits. | -Swag Owol, Rogue Bandit, Bunny-chan, Bandit Owol
- |
-| Armor Up Enemies do 30% less damage to your allies. | -Blacksmith, Boulder Ogre, Pig Knight, Frankenstein(⭐)
- | undefined |
-| Evasive | Attacks on this hero miss 20% of the time. | -Rogue, Bandit Owol, Rogue Bandit, Panther, Fairy
- |
-| Strong Armor | This hero has 100% more defense. | -Federation Soldier, Armedadillo
- |
-| Contagious Greed | Grants All allies Money Lover which Increase their chance by 25% to get items in battle. -Wish z, Martial Artist wish z
- | undefined |
-| Treasure Finder | Increases chance to get items in battle by 10%. | -Captain Oaks ⭐
- |
+| Boss This hero is immune to percentage damage attacks. | This hero refuses to attack if you have more than two bosses. | -Owol Mother, Owol Father, Cobrasp, Royal Cobrasp, One Three, Samurai Gorilla |
+| Sharpshooter | This hero never misses. | -Swag Owol, Ace, Craig, Officer Donut, Huntress(⭐), Gun Bandit, Kayla the Valiant|
+| Backstabber | 30% extra chance to score critical hits. | -Swag Owol, Rogue Bandit, Bunny-chan, Bandit Owol|
+| Armor Up Enemies do 30% less damage to your allies. | -Blacksmith, Boulder Ogre, Pig Knight, Frankenstein(⭐) |
+| Evasive | Attacks on this hero miss 20% of the time. | -Rogue, Bandit Owol, Rogue Bandit, Panther, Fairy |
+| Strong Armor | This hero has 100% more defense. | -Federation Soldier, Armedadillo |
+| Contagious Greed | Grants All allies Money Lover which Increase their chance by 25% to get items in battle. -Wish z, Martial Artist wish z |
+| Treasure Finder | Increases chance to get items in battle by 10%. | -Captain Oaks ⭐ |
 | Scurvy Negate ALL heroes' status immunities. | -Captain Oaks, Davy Jones
- | undefined |
 | Spotter | All allied Bandits never miss. | -Bandit(⭐), Bandit Owol
- |
 | Renegade Gives this hero a 50% extra chance to score critical hits. | -Rogue(⭐), Rogue Pilot, Werewolf(⭐)
- | undefined |
 | Slow Start | After 10 attacks, maximize this hero's speed. | Ben, Panda(⭐)
- |
 | Sturdy Immune to area of effect attacks. -Ben(⭐), Zen, Silver
- | undefined | undefined |
 | Martyr When this hero dies, stun all enemies. -Angel, Zen(⭐)
- | undefined | undefined |
 | Headshot Critical hits do 100% more damage. -Craig, Kayla the Valiant
- | undefined | undefined |
 | Divine Protection Makes all allies immune to the first hit they take per battle. -Howoly(⭐), Zen
- | undefined | undefined |
 | Samurai's Retaliate | Every time this hero is attacked, has a 20% chance to deal back 10% of the damage. -The Lone Wanderer, Samurai Gorilla
- | undefined |
 | Persistent | This hero is more likely to induce status effects. (+25%?) | Bunny-chan(⭐), Ostigon
- |
 | Antivenom | Your allies cannot be poisoned. | Cobrasp, Ostigon
- |
 | Cactus | This hero is considered a cactus. | Prickles, Needling
- |
 | Waterproof | This hero takes 70% less damage from Water-type heroes. | Prickles, Needling ⭐
- |
 | Candy Jackpot Whenever this hero causes candy to drop, has a 20% chance of DARASTICALLY increasing power of defense. | Candy Corn Lad, Hallowol
- | undefined |
 | Fatal Toxins | Has a 70% Chance to poison an enemy on attack. | Glubbie, Spider Queen(⭐)
- |
-| ⭐
- | undefined | undefined |
 | Feeding Frenzy Upon an enemy's death, increase this hero's power by 50%. | Zombie, Korblox Deathspeaker
  | undefined |
 | Unaware | Immune to all status effects. | Noob Swordsman, Guest
